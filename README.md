@@ -15,3 +15,5 @@ Failures (yes, they’re here too — because in DL, even your loss has value)
 
 Remember: behind every great neural net is a human who Googled “why my model accuracy stuck at 50%” at least once.
 Thanks for stopping by, and may your weights always converge! 
+
+P.S. – Okay, you caught me — I had a little help from ChatGPT writing this😅. But hey, it takes a neural network to truly understand the struggles, dreams, and existential dread of another neural network. Think of it as AI helping me decode AI — poetic, right? 😄😄😄😄

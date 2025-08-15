@@ -30,6 +30,12 @@ _This repository is dedicated to exploring the intricacies of neural networks. I
     Applying transformer-based architectures to image classification.
     vit-classification.ipynb
 
+**Generalized Category Discovery (GCD) on MLRSNet**
+
+    Applying the GCD framework to remote sensing image classification and novel category discovery using the MLRSNet dataset.
+    gcd-mlrsnet.ipynb
+
+
 **Remember:** behind every great neural net is a human who Googled “why my model accuracy stuck at 50%” at least once.
 
 **Thanks for stopping by, and may your weights always converge!**

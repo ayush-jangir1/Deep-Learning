@@ -35,6 +35,10 @@ _This repository is dedicated to exploring the intricacies of neural networks. I
     Applying the GCD framework to remote sensing image classification and novel category discovery using the MLRSNet dataset.
     gcd-mlrsnet.ipynb
 
+**CLIP(Contrastive Language Image Pretraining) on RSCID Dataset**
+
+    Applying the image-text retrieval on the RSICD dataset using CLIP embeddings. We evaluate performance with 
+    Recall@K (R@1, R@5, R@10), reporting results on All, Old, and New subsets
 
 **Remember:** behind every great neural net is a human who Googled “why my model accuracy stuck at 50%” at least once.
 
